@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+dist/
+*.zip
+*.log
+.env.local
+.DS_Store
+public/0001-0250.mp4
+public/models/textures.zip
